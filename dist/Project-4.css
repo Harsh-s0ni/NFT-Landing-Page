@@ -22,6 +22,10 @@
   );
 }
 
+.bg-gradient-button {
+  background: linear-gradient(to right, #04dce6, #a504e6);
+}
+
 .bg-gradient-lower-section {
   background: #a50aff;
   background: radial-gradient(
@@ -789,10 +793,6 @@ video {
   margin-left: -0.5rem;
 }
 
-.-mt-12{
-  margin-top: -3rem;
-}
-
 .-mt-14{
   margin-top: -3.5rem;
 }
@@ -801,8 +801,8 @@ video {
   margin-top: -4rem;
 }
 
-.-mt-\[380px\]{
-  margin-top: -380px;
+.-mt-\[24\.8\%\]{
+  margin-top: -24.8%;
 }
 
 .ml-36{
@@ -853,32 +853,48 @@ video {
   margin-top: 1.75rem;
 }
 
-.-mt-\[50\%\]{
-  margin-top: -50%;
+.-mt-96{
+  margin-top: -24rem;
 }
 
-.-mt-\[10\%\]{
-  margin-top: -10%;
+.-mt-20{
+  margin-top: -5rem;
 }
 
-.-mt-\[30\%\]{
-  margin-top: -30%;
+.-mt-40{
+  margin-top: -10rem;
 }
 
-.-mt-\[20\%\]{
-  margin-top: -20%;
+.-mt-72{
+  margin-top: -18rem;
 }
 
-.-mt-\[25\%\]{
-  margin-top: -25%;
+.-mt-80{
+  margin-top: -20rem;
 }
 
-.-mt-\[24\%\]{
-  margin-top: -24%;
+.-mt-0{
+  margin-top: -0px;
 }
 
-.-mt-\[24\.8\%\]{
-  margin-top: -24.8%;
+.-mt-\[22rem\]{
+  margin-top: -22rem;
+}
+
+.-mt-\[23rem\]{
+  margin-top: -23rem;
+}
+
+.-mt-\[24rem\]{
+  margin-top: -24rem;
+}
+
+.-mt-\[23\.5rem\]{
+  margin-top: -23.5rem;
+}
+
+.-mt-\[23\.8rem\]{
+  margin-top: -23.8rem;
 }
 
 .flex{
@@ -887,10 +903,6 @@ video {
 
 .h-10{
   height: 2.5rem;
-}
-
-.h-12{
-  height: 3rem;
 }
 
 .h-14{
@@ -927,6 +939,10 @@ video {
 
 .h-\[555px\]{
   height: 555px;
+}
+
+.h-80{
+  height: 20rem;
 }
 
 .w-1\/2{
