@@ -31,7 +31,6 @@
 }
 
 .bg-gradient-lower-section {
-  background: #a50aff;
   background: radial-gradient(
     circle farthest-side at left center,
     #a50aff 0%,
