@@ -26,7 +26,7 @@
   background: radial-gradient(
     circle farthest-side at left center,
     #a50aff 0%,
-    #160e2a 25%
+    rgb(22,14,42) 25%
   );
 }
 .bg-clip-cresent {
