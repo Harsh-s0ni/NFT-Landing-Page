@@ -23,7 +23,7 @@
 }
 
 .bg-purple {
-  background: #170e2a;
+  background: #160e2a;
 }
 
 .bg-gradient-button {
@@ -35,7 +35,7 @@
   background: radial-gradient(
     circle farthest-side at left center,
     #a50aff 0%,
-    #170e2a 25%
+    #160e2a 25%
   );
 }
 
