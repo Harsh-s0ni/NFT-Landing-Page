@@ -23,7 +23,6 @@
   background: linear-gradient(to right, #04dce6, #a504e6);
 }
 .bg-gradient-lower-section {
-  background: #a50aff;
   background: radial-gradient(
     circle farthest-side at left center,
     #a50aff 0%,
