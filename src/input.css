@@ -16,6 +16,9 @@
     #9924cd
   );
 }
+.bg-purple {
+  background: #170e2a;
+}
 .bg-gradient-button {
   background: linear-gradient(to right, #04dce6, #a504e6);
 }
