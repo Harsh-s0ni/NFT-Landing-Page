@@ -2,7 +2,7 @@
 
 Welcome to the NFT Landing Page project! This showcase demonstrates my front-end web development skills, showcasing an eye-catching and modern design that's in line with contemporary NFT websites. The page has been meticulously crafted using Tailwind CSS and HTML to deliver a fresh and captivating user experience.
 
-# Check It Out!
+## Check It Out!
 https://harsh-s0ni.github.io/NFT-Landing-Page/dist/Project-4.html
 
 ## Features
